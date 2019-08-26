@@ -1,1 +1,2 @@
-# Cont-Stoikov-Talreja 2010 model monte carlo simulation of limit order book
+# Cont Stoikov Talreja (CST) 2010 model 
+## Monte Carlo Simulation of limit order book
